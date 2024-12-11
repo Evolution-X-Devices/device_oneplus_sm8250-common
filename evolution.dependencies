@@ -1,0 +1,23 @@
+[
+  {
+    "repository": "hardware_oplus",
+    "branch": "bka",
+    "target_path": "hardware/oplus"
+  },
+  {
+    "repository": "kernel_oneplus_sm8250",
+    "branch": "bka",
+    "target_path": "kernel/oneplus/sm8250"
+  },
+  {
+    "repository": "vendor_oneplus_sm8250-common",
+    "branch": "bka",
+    "target_path": "vendor/oneplus/sm8250-common"
+  },
+  {
+    "remote": "bitbucket",
+    "branch": "fifteen",
+    "repository": "nameless-aosp/vendor_oneplus_camera",
+    "target_path": "vendor/oneplus/camera"
+  }
+]
